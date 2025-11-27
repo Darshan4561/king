@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1a1a1a;
+}
+
+.clock {
+    width: 300px;
+    height: 300px;
+    border: 12px solid #fff;
+    border-radius: 20px;
+    position: relative;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.digital-time {
+    font-size: 48px;
+    color: #00ff00;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}

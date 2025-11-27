@@ -1,0 +1,4 @@
+- [x] Edit index.html: Remove analog clock hands and numbers, add a div for digital time display
+- [x] Edit style.css: Change clock to square shape, remove styles for hands, numbers, and center, add styles for digital time
+- [x] Edit script.js: Update to display digital time (HH:MM:SS) instead of rotating hands
+- [x] Test the smart watch by opening index.html
